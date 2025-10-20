@@ -1,4 +1,4 @@
 source "https://rubygems.org"
-ruby '2.5.1'
+ruby '3.1.4'
 gem 'pry'
-gem 'rubocop', '~> 0.57.2'
+gem 'rubocop', '~> 1.81.1'
